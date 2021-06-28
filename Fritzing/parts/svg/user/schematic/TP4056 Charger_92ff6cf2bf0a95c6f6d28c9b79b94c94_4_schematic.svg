@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="0.4in" baseProfile="tiny" viewBox="0 0 10.16 25.4" version="1.2" x="0in" height="1in"  y="0in">
+    <desc>
+        <referenceFile>LiPo-USB-Charger-v21_schematic.svg</referenceFile>
+    </desc>
+    <g id="schematic"  gorn="0.0">
+        <rect stroke-linecap="round" width="9.8425" stroke="#000000" class="interior rect" fill="#FFFFFF" stroke-width="0.3175" x="0.15875" height="14.9225"  y="5.23875"/>
+        <line stroke-linecap="round" x1="5.08" y2="25.2765" stroke="none" class="pin" fill="none" stroke-width="0" id="connector8pin"  x2="5.08" y1="20.1965" gorn="0.0.1"/>
+        <rect width="0.246944" stroke="none" class="terminal" fill="none" stroke-width="0" x="4.95653" height="0.246944" id="connector8terminal"  y="25.2765" gorn="0.0.2"/>
+        <line stroke-linecap="round" x1="5.08" y2="25.2765" stroke="#787878" class="pin" fill="none" stroke-width="0.246944" id="connector10pin"  x2="5.08" y1="20.1965" gorn="0.0.3"/>
+        <g transform="translate(5.32694,19.7026)" >
+            <g >
+                <g transform="rotate(270)" >
+                    <g >
+                        <text font-family="'Droid Sans'" stroke="none" class="text" fill="#8c8c8c" stroke-width="0" font-size="1.23472" x="0"  y="0" text-anchor="start">GND</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect width="0.246944" stroke="none" class="terminal" fill="none" stroke-width="0" x="4.95653" height="0.246944" id="connector10terminal"  y="25.2765" gorn="0.0.5"/>
+        <line stroke-linecap="round" x1="5.08" y2="5.20347" stroke="none" class="pin" fill="none" stroke-width="0" id="connector9pin"  x2="5.08" y1="0.123472" gorn="0.0.6"/>
+        <rect width="0.246944" stroke="none" class="terminal" fill="none" stroke-width="0" x="4.95653" height="0.246944" id="connector9terminal"  y="-0.123472" gorn="0.0.7"/>
+        <line stroke-linecap="round" x1="5.08" y2="5.20347" stroke="#787878" class="pin" fill="none" stroke-width="0.246944" id="connector11pin"  x2="5.08" y1="0.123472" gorn="0.0.8"/>
+        <g transform="translate(5.32694,5.69736)" >
+            <g >
+                <g transform="rotate(270)" >
+                    <g >
+                        <text font-family="'Droid Sans'" stroke="none" class="text" fill="#8c8c8c" stroke-width="0" font-size="1.23472" x="0"  y="0" text-anchor="end">VBAT</text>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect width="0.246944" stroke="none" class="terminal" fill="none" stroke-width="0" x="4.95653" height="0.246944" id="connector11terminal"  y="-0.123472" gorn="0.0.10"/>
+        <text font-family="'Droid Sans'" stroke="none" class="text" fill="#000000" stroke-width="0" font-size="1.49931" id="label" x="5.23875"  y="12.4119" text-anchor="middle" gorn="0.0.11">USB</text>
+        <text font-family="'Droid Sans'" stroke="none" class="text" fill="#000000" stroke-width="0" font-size="1.49931" id="label" x="5.23875"  y="14.0112" text-anchor="middle" gorn="0.0.12">LiPoly</text>
+        <text font-family="'Droid Sans'" stroke="none" class="text" fill="#000000" stroke-width="0" font-size="1.49931" id="label" x="5.23875"  y="15.6106" text-anchor="middle" gorn="0.0.13">Charger</text>
+    </g>
+</svg>

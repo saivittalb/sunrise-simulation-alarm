@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="prefix0000_f11befd235766bb4e0dcee612dc4341f_50" referenceFile="sparkfun-poweric-dc-dc_converter-.fzp" fritzingVersion="0.7.2b">
+ <!-- generated from Sparkfun Eagle Library 'SparkFun-PowerIC' DC-DC_CONVERTER  -->
+ <version>4</version>
+ <date>Wed Apr 8 2015</date>
+ <label>Reg</label>
+ <author>KDT</author>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">WYHP 5A constant current/voltage manufactured by Shenzhen Weiyapuhua Technology Co., Ltd&lt;/p>&lt;/body>&lt;/html></description>
+ <title>DC-DC CONVERTER</title>
+ <tags>
+  <tag>CONVERTER</tag>
+  <tag>DC-DC</tag>
+  <tag>Regulator</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 1</property>
+  <property name="family">DC-DC Regulator</property>
+  <property name="current">5A</property>
+  <property name="package">dc-dc_converter</property>
+  <property name="chip">APTS006A0X</property>
+  <property name="part number">80633</property>
+  <property name="output">0.8V - 29V</property>
+  <property name="input">5-30V</property>
+  <property name="layer"></property>
+ </properties>
+ <views>
+  <breadboardView>
+   <layers image="breadboard/prefix0000_eda8e5a4d05964524a3b16b656ed69df_1_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/prefix0000_eda8e5a4d05964524a3b16b656ed69df_1_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/prefix0000_eda8e5a4d05964524a3b16b656ed69df_1_pcb.svg">
+    <layer layerId="copper1"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+   </layers>
+  </pcbView>
+  <iconView>
+   <layers image="icon/prefix0000_eda8e5a4d05964524a3b16b656ed69df_1_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+ </views>
+ <connectors>
+  <connector name="OUT-" id="connector6" type="female">
+   <description>DC out -</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector6pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector6pin" terminalId="connector6terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector6pin" layer="copper1"/>
+     <p svgId="connector6pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="OUT+" id="connector7" type="female">
+   <description>DC out +</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector7pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector7pin" terminalId="connector7terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector7pin" layer="copper1"/>
+     <p svgId="connector7pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="IN-" id="connector8" type="female">
+   <description>DC in -</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector8pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector8pin" terminalId="connector8terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector8pin" layer="copper1"/>
+     <p svgId="connector8pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector name="IN+" id="connector9" type="female">
+   <description>DC in +</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector9pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector9pin" terminalId="connector9terminal" layer="schematic"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector9pin" layer="copper1"/>
+     <p svgId="connector9pin" layer="copper0"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <buses/>
+</module>

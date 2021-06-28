@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.4.2019-12-01.CD-498-0-a1ffcea" icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="TP4056 Charger_92ff6cf2bf0a95c6f6d28c9b79b94c94_3" modelIndex="13774" path="/Users/saivittalb/Documents/Fritzing/parts/user/TP4056 Charger_92ff6cf2bf0a95c6f6d28c9b79b94c94_3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TP4056_Module" modelIndex="13779" path="/Users/saivittalb/Documents/Fritzing/parts/user/TP4056_Module.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix0000_f11befd235766bb4e0dcee612dc4341f_50" modelIndex="13811" path="/Users/saivittalb/Documents/Fritzing/parts/user/prefix0000_f11befd235766bb4e0dcee612dc4341f_50.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

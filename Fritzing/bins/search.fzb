@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.4.2019-12-01.CD-498-0-a1ffcea" icon="Search.png" search="boost converter">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="PowerCell-v13" modelIndex="13806" path="/Applications/Fritzing.app/Contents/MacOS/fritzing-parts/core/PowerCell Lipo Charger Booster v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PowerBoost 500C - Adafruit" modelIndex="13807" path="/Applications/Fritzing.app/Contents/MacOS/fritzing-parts/core/PowerBoost 500C - Adafruit.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
