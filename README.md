@@ -13,7 +13,7 @@ Working code for the project can be viewed in ```Sunrise_Simulation``` directory
 
 It is to be noted that the actual boost converter used in the prototype is XL6009 and is different from the component showed in the Fritzing schematic. Also, the LiPo battery capacity of 2500 mAh is used for the prototype while the schamtic shows LiPo capacity of 2000 mAh. These two components were slightly deffered since Fritzing doesn't have these components with exact specifications.
 
-Developed as a part of PR 301 - Embedded Hardware Project under the supervision of Dr. KR Sarma and Dr. Bharghava Rajaram. Design specifications can be viewd in a report submitted before the development of the hardware prototype can be viewed in ```Final-Report.docx```. The report remains slightly obsolete after the hardware implementation.
+Developed as a part of PR 301 - Embedded Hardware Project under the supervision of Dr. KR Sarma and Dr. Bharghava Rajaram. Design specifications can be viewed in a report submitted before the development of the hardware prototype in ```Final-Report.docx```. The report remains slightly obsolete after the hardware implementation.
 
 ## Table of contents
 
